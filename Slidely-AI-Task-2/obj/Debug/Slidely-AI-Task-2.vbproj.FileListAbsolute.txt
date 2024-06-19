@@ -1,0 +1,17 @@
+C:\Users\mausa\Desktop\Slidely AI\Slidely-AI-Task-2\Slidely-AI-Task-2\Slidely-AI-Task-2\bin\Debug\Slidely-AI-Task-2.exe.config
+C:\Users\mausa\Desktop\Slidely AI\Slidely-AI-Task-2\Slidely-AI-Task-2\Slidely-AI-Task-2\bin\Debug\Slidely-AI-Task-2.exe
+C:\Users\mausa\Desktop\Slidely AI\Slidely-AI-Task-2\Slidely-AI-Task-2\Slidely-AI-Task-2\bin\Debug\Slidely-AI-Task-2.pdb
+C:\Users\mausa\Desktop\Slidely AI\Slidely-AI-Task-2\Slidely-AI-Task-2\Slidely-AI-Task-2\bin\Debug\Slidely-AI-Task-2.xml
+C:\Users\mausa\Desktop\Slidely AI\Slidely-AI-Task-2\Slidely-AI-Task-2\Slidely-AI-Task-2\obj\Debug\Slidely-AI-Task-2.vbproj.AssemblyReference.cache
+C:\Users\mausa\Desktop\Slidely AI\Slidely-AI-Task-2\Slidely-AI-Task-2\Slidely-AI-Task-2\obj\Debug\Slidely_AI_Task_2.Form1.resources
+C:\Users\mausa\Desktop\Slidely AI\Slidely-AI-Task-2\Slidely-AI-Task-2\Slidely-AI-Task-2\obj\Debug\Slidely_AI_Task_2.Resources.resources
+C:\Users\mausa\Desktop\Slidely AI\Slidely-AI-Task-2\Slidely-AI-Task-2\Slidely-AI-Task-2\obj\Debug\Slidely-AI-Task-2.vbproj.GenerateResource.cache
+C:\Users\mausa\Desktop\Slidely AI\Slidely-AI-Task-2\Slidely-AI-Task-2\Slidely-AI-Task-2\obj\Debug\Slidely-AI-Task-2.vbproj.CoreCompileInputs.cache
+C:\Users\mausa\Desktop\Slidely AI\Slidely-AI-Task-2\Slidely-AI-Task-2\Slidely-AI-Task-2\obj\Debug\Slidely-AI-Task-2.exe
+C:\Users\mausa\Desktop\Slidely AI\Slidely-AI-Task-2\Slidely-AI-Task-2\Slidely-AI-Task-2\obj\Debug\Slidely-AI-Task-2.xml
+C:\Users\mausa\Desktop\Slidely AI\Slidely-AI-Task-2\Slidely-AI-Task-2\Slidely-AI-Task-2\obj\Debug\Slidely-AI-Task-2.pdb
+C:\Users\mausa\Desktop\Slidely AI\Slidely-AI-Task-2\Slidely-AI-Task-2\Slidely-AI-Task-2\obj\Debug\Slidely_AI_Task_2.ViewSubmissionsForm.resources
+C:\Users\mausa\Desktop\Slidely AI\Slidely-AI-Task-2\Slidely-AI-Task-2\Slidely-AI-Task-2\obj\Debug\Slidely_AI_Task_2.CreateSubmissionForm.resources
+C:\Users\mausa\Desktop\Slidely AI\Slidely-AI-Task-2\Slidely-AI-Task-2\Slidely-AI-Task-2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mausa\Desktop\Slidely AI\Slidely-AI-Task-2\Slidely-AI-Task-2\Slidely-AI-Task-2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mausa\Desktop\Slidely AI\Slidely-AI-Task-2\Slidely-AI-Task-2\Slidely-AI-Task-2\obj\Debug\Slidely-.9BB6EBBA.Up2Date
