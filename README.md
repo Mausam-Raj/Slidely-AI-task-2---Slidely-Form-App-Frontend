@@ -18,7 +18,7 @@ The `Slidely Form App` is `Visual Basic` application designed to manage user sub
 ### Installation
 - Clone the repository: 
     ``` sh
-        https://github.com/Mausam-Raj/Slidely-AI-task-2---Slidely-Form-App-Frontend.git
+        https://github.com/Mausam-Raj/Slidely-AI-task-2-Slidely-Form-App-Frontend.git
     ```
 - Open the project in Visual Studio.
 - Build and Run the project.
